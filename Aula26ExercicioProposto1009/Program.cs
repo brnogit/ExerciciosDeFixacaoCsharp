@@ -15,7 +15,7 @@ namespace exercicioproposto1009
 
             double totalAReceber = salarioFixo + comissao;
 
-            Console.WriteLine($"TOTAL = {totalAReceber:F2}");
+            Console.WriteLine($"TOTAL = R$ {totalAReceber:F2}");
 
             Console.ReadLine();
         }
