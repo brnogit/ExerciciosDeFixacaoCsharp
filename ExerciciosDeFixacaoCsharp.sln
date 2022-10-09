@@ -29,11 +29,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula23ExercicioProposto1006
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula26ExercicioProposto1009", "Aula26ExercicioProposto1009\Aula26ExercicioProposto1009.csproj", "{D140C7BD-0589-43BF-BA05-8E64C77C398C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26ExercicioProposto1011", "Aula26ExercicioProposto1011\Aula26ExercicioProposto1011.csproj", "{0C5C9596-9404-49C2-89F2-673B89ED0219}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula26ExercicioProposto1011", "Aula26ExercicioProposto1011\Aula26ExercicioProposto1011.csproj", "{0C5C9596-9404-49C2-89F2-673B89ED0219}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26ExercicioProposto1012", "Aula26ExercicioProposto1012\Aula26ExercicioProposto1012.csproj", "{09C0C7BF-9AEA-4097-8371-B74ABECF44A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula26ExercicioProposto1012", "Aula26ExercicioProposto1012\Aula26ExercicioProposto1012.csproj", "{09C0C7BF-9AEA-4097-8371-B74ABECF44A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26ExercicioProposto1013", "Aula26ExercicioProposto1013\Aula26ExercicioProposto1013.csproj", "{196F5071-24AB-4095-84D6-110F921EC18F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula26ExercicioProposto1013", "Aula26ExercicioProposto1013\Aula26ExercicioProposto1013.csproj", "{196F5071-24AB-4095-84D6-110F921EC18F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula26ExercicioProposto1015", "Aula26ExercicioProposto1015\Aula26ExercicioProposto1015.csproj", "{D3599929-00FE-4D6E-83F6-A3AE17BF9E61}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -105,6 +107,10 @@ Global
 		{196F5071-24AB-4095-84D6-110F921EC18F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{196F5071-24AB-4095-84D6-110F921EC18F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{196F5071-24AB-4095-84D6-110F921EC18F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3599929-00FE-4D6E-83F6-A3AE17BF9E61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3599929-00FE-4D6E-83F6-A3AE17BF9E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3599929-00FE-4D6E-83F6-A3AE17BF9E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3599929-00FE-4D6E-83F6-A3AE17BF9E61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
