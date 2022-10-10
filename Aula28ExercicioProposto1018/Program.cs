@@ -1,5 +1,5 @@
 ﻿using System;
-
+using System.Collections.Generic;
 
 namespace exercicioproposto1018
 {
@@ -41,10 +41,23 @@ namespace exercicioproposto1018
 
 
             //forma simplificada
-            List<int> notasValores = new List<int> { 100, 50, 20, 10, 5, 1 };
+
+            /*int[] notasValores = { 100, 50, 20, 10, 5, 2, 1 };
 
             Console.WriteLine(valorNotas);
             foreach (int valor in notasValores)
+            {
+                notaDivisao = valorNotas / valor;
+                Console.WriteLine($"{notaDivisao} nota(s) de R$ {valor},00");
+                valorNotas %= valor;
+            }
+*/
+            // forma simplificada 2
+            Console.WriteLine();
+            List<int> listaNotasValores = new List<int> { 100, 50, 20, 10, 5, 2, 1 };
+
+            Console.WriteLine(valorNotas);
+            foreach (int valor in listaNotasValores)
             {
                 notaDivisao = valorNotas / valor;
                 Console.WriteLine($"{notaDivisao} nota(s) de R$ {valor},00");
