@@ -7,7 +7,7 @@ namespace exercicioproposto1018
     {
         static void Main(string[] args)
         {
-            int notas100, notas50, notas20, notas10, notas5, notas2, notas1, resto;
+            int notas100, notas50, notas20, notas10, notas5, notas2, notas1, resto, notaDivisao, notaResto;
             int valorNotas = int.Parse(Console.ReadLine());
 
             notas100 = valorNotas / 100;
@@ -39,6 +39,17 @@ namespace exercicioproposto1018
             Console.WriteLine($"{notas2} nota(s) de R$ 2,00");
             Console.WriteLine($"{notas1} nota(s) de R$ 1,00");
 
+
+            //forma simplificada
+            List<int> notasValores = new List<int> { 100, 50, 20, 10, 5, 1 };
+
+            Console.WriteLine(valorNotas);
+            foreach (int valor in notasValores)
+            {
+                notaDivisao = valorNotas / valor;
+                Console.WriteLine($"{notaDivisao} nota(s) de R$ {valor},00");
+                valorNotas = valorNotas % valor;
+            }
         }
     }
 }
