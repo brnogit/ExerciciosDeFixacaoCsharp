@@ -6,7 +6,7 @@ namespace exercicioproposto1061
     {
         static void Main(string[] args)
         {
-            int dias, horas, minutos, segundos, diaInicial, horaInicial, minutoInicial, segundoInicial, tempoInicialEmSegundos, diaFinal, horaFinal, minutoFinal, segundoFinal, tempoFinalEmSegundos, diferenca;
+            int dias, horas, minutos, segundos, diaInicial, horaInicial, minutoInicial, segundoInicial, tempoInicialEmSegundos, diaFinal, horaFinal, minutoFinal, segundoFinal, tempoFinalEmSegundos, diferencaDoValor;
             
             // Primeiro todos valores são convertidos em inteiros
             string[] dataInicio = Console.ReadLine().Split(' ');
@@ -32,19 +32,19 @@ namespace exercicioproposto1061
             tempoFinalEmSegundos = diaFinal * 24 * 60 * 60 + horaFinal * 60 * 60 + minutoFinal * 60 + segundoFinal;
 
             //o tempo em segundos facilita o calculo, assim achando a diferenca entre tempo inicial e final
-            diferenca = tempoFinalEmSegundos - tempoInicialEmSegundos;
+            diferencaDoValor = tempoFinalEmSegundos - tempoInicialEmSegundos;
 
             //depois é feito a divisão para converter de volta o tempo de segundos em dias, horas, minutos e segundos.
-            dias = diferenca / (24 * 60 * 60);
-            diferenca = diferenca % (24 * 60 * 60);
+            dias = diferencaDoValor / (24 * 60 * 60);
+            diferencaDoValor = diferencaDoValor % (24 * 60 * 60);
 
-            horas = diferenca / (60 * 60);
-            diferenca = diferenca % (60 * 60);
+            horas = diferencaDoValor / (60 * 60);
+            diferencaDoValor = diferencaDoValor % (60 * 60);
 
-            minutos = diferenca / 60;
-            diferenca = diferenca % 60;
+            minutos = diferencaDoValor / 60;
+            diferencaDoValor = diferencaDoValor % 60;
 
-            segundos = diferenca;
+            segundos = diferencaDoValor;
 
             Console.WriteLine($"{dias} dia(s)");
             Console.WriteLine($"{horas} hora(s)");
