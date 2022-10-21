@@ -71,13 +71,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula38ExercicioProposto1051
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula38ExercicioProposto1042", "Aula38ExercicioProposto1042\Aula38ExercicioProposto1042.csproj", "{1D95B5F1-B9E0-4CC2-BDD8-0B9D50BDC48D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ExercicioProposto1114", "Aula45ExercicioProposto1114\Aula45ExercicioProposto1114.csproj", "{6CE6CF29-7DB8-4FC8-9AA5-88D7C35AFCEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1114", "Aula45ExercicioProposto1114\Aula45ExercicioProposto1114.csproj", "{6CE6CF29-7DB8-4FC8-9AA5-88D7C35AFCEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ExercicioProposto1115", "Aula45ExercicioProposto1115\Aula45ExercicioProposto1115.csproj", "{A939623C-B1E6-40ED-B0B8-53BA15DF58D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1115", "Aula45ExercicioProposto1115\Aula45ExercicioProposto1115.csproj", "{A939623C-B1E6-40ED-B0B8-53BA15DF58D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ExercicioProposto1117", "Aula45ExercicioProposto1117\Aula45ExercicioProposto1117.csproj", "{0AD61956-65AF-4448-9EA3-0B08DE94FD49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1117", "Aula45ExercicioProposto1117\Aula45ExercicioProposto1117.csproj", "{0AD61956-65AF-4448-9EA3-0B08DE94FD49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ExercicioProposto1134", "Aula45ExercicioProposto1134\Aula45ExercicioProposto1134.csproj", "{786DFB23-CF64-4B28-BDDA-5E673E8D53F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1134", "Aula45ExercicioProposto1134\Aula45ExercicioProposto1134.csproj", "{786DFB23-CF64-4B28-BDDA-5E673E8D53F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ExercicioProposto1154", "Aula45ExercicioProposto1154\Aula45ExercicioProposto1154.csproj", "{2389A80F-FC29-4564-BF9A-70DEA4E73313}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +239,10 @@ Global
 		{786DFB23-CF64-4B28-BDDA-5E673E8D53F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{786DFB23-CF64-4B28-BDDA-5E673E8D53F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{786DFB23-CF64-4B28-BDDA-5E673E8D53F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2389A80F-FC29-4564-BF9A-70DEA4E73313}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2389A80F-FC29-4564-BF9A-70DEA4E73313}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2389A80F-FC29-4564-BF9A-70DEA4E73313}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2389A80F-FC29-4564-BF9A-70DEA4E73313}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
