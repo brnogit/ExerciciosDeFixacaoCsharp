@@ -23,7 +23,7 @@ namespace exercicioproposto1117
                 nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             }
 
-            media = nota1 + nota2 / 2;
+            media = (nota1 + nota2) / 2.0;
             Console.WriteLine($"media = {media:f2}");
         }
     }
