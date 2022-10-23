@@ -85,7 +85,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1159
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1118", "Aula45ExercicioProposto1118\Aula45ExercicioProposto1118.csproj", "{926A10F9-1D29-4EC6-96B9-E6BA4AFFFE5E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula45ExercicioProposto1131", "Aula45ExercicioProposto1131\Aula45ExercicioProposto1131.csproj", "{F599BC7B-D7A0-49A7-AAF5-B27DAFB9BEC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula45ExercicioProposto1131", "Aula45ExercicioProposto1131\Aula45ExercicioProposto1131.csproj", "{F599BC7B-D7A0-49A7-AAF5-B27DAFB9BEC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula52ExercicioProposto1067", "Aula52ExercicioProposto1067\Aula52ExercicioProposto1067.csproj", "{B24F08BB-D998-4954-8642-7CC5A79F221E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -261,6 +263,10 @@ Global
 		{F599BC7B-D7A0-49A7-AAF5-B27DAFB9BEC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F599BC7B-D7A0-49A7-AAF5-B27DAFB9BEC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F599BC7B-D7A0-49A7-AAF5-B27DAFB9BEC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B24F08BB-D998-4954-8642-7CC5A79F221E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B24F08BB-D998-4954-8642-7CC5A79F221E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B24F08BB-D998-4954-8642-7CC5A79F221E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B24F08BB-D998-4954-8642-7CC5A79F221E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
