@@ -111,6 +111,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula61ExercicioProposto03Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula61ExercicioProposto04Vetores", "Aula61ExercicioProposto04Vetores\Aula61ExercicioProposto04Vetores.csproj", "{5693AD25-7B1E-409C-B279-9BAF05424324}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula61ExercicioProposto05Vetores", "Aula61ExercicioProposto05Vetores\Aula61ExercicioProposto05Vetores.csproj", "{DBC48484-BBB8-4C2A-A28C-E35FE7380601}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{5693AD25-7B1E-409C-B279-9BAF05424324}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5693AD25-7B1E-409C-B279-9BAF05424324}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5693AD25-7B1E-409C-B279-9BAF05424324}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBC48484-BBB8-4C2A-A28C-E35FE7380601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBC48484-BBB8-4C2A-A28C-E35FE7380601}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBC48484-BBB8-4C2A-A28C-E35FE7380601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBC48484-BBB8-4C2A-A28C-E35FE7380601}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
