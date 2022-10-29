@@ -123,6 +123,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aula61ExercicioProposto09Ve
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula68ExercicioProposto01Matrizes", "Aula68ExercicioProposto01Matrizes\Aula68ExercicioProposto01Matrizes.csproj", "{79489A34-FDDB-4435-8FB2-42DD4EB7516E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula68ExercicioProposto02Matrizes", "Aula68ExercicioProposto02Matrizes\Aula68ExercicioProposto02Matrizes.csproj", "{47B82396-7D90-43C1-BFEA-B864B53DEA71}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{79489A34-FDDB-4435-8FB2-42DD4EB7516E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79489A34-FDDB-4435-8FB2-42DD4EB7516E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79489A34-FDDB-4435-8FB2-42DD4EB7516E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47B82396-7D90-43C1-BFEA-B864B53DEA71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47B82396-7D90-43C1-BFEA-B864B53DEA71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47B82396-7D90-43C1-BFEA-B864B53DEA71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47B82396-7D90-43C1-BFEA-B864B53DEA71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
