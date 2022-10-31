@@ -15,6 +15,8 @@ for(int i = 0; i < numeroA; i++)
 
 fila = int.Parse(Console.ReadLine());
 
+fila = fila - 1;
+
 ultimoDaFila = matriz[fila, numeroB - 1];
 
 for(int j = numeroB - 1; j >0; j--)
